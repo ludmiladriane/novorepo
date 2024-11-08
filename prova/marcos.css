@@ -1,0 +1,39 @@
+        /* Estilização de parágrafos */
+        p {
+            color: rgb(255, 255, 255);
+        }
+
+        /* Margem superior para as imagens */
+        img {
+            margin-top: 20%;
+        }
+
+        /* Estilo de fundo para o corpo da página */
+        body {
+            background: linear-gradient(to right, rgb(0, 0, 0), darkblue);
+            background-size: 100%;
+            background-attachment: fixed;
+        }
+
+        /* Centraliza e estiliza os títulos principais */
+        .centro-titulo {
+            text-align: center;
+            color: white;
+            margin-top: 20px;
+        }
+
+        /* Margem superior para afastar elementos */
+        .afastar {
+            margin-top: 5%;
+        }
+
+        /* Estilo para centralizar texto com cor específica */
+        .centro {
+            text-align: center;
+            color: blueviolet;
+            margin-top: 20px;
+        }
+        #foto1 {
+          width: 100%;
+          height: auto;
+        }
